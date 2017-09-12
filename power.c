@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<math.h>
-int power(int a,int b)
+double power(double a,double b)
 {
- int c=pow(a,b);
+ double c=pow(a,b);
  return c;
  }
  

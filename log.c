@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int log(x)
+double logarithm(double x)
 {
   return log(x);
 }
